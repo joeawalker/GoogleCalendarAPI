@@ -20,7 +20,7 @@ The spreadsheets would all be saved inside a folder labelled "Rotas" that would 
 I researched into Google's Google Calendar API and created a developer account that would allow me to update my accounts calendar using Python. This required me to generate tokens for validation using pickle and JSON file types. The python script takes the information previously gathered and creates a new event passing the information as different parameters as well as including adding two alarms a day before and an hour and a half before then executes a live update. The console prints out information to display the event created or an error message to say an update has failed.
 
 <p align="center">
-  <img width="460" height="270" src="https://raw.githubusercontent.com/joeawalker/GoogleCalendarAPI/main/shifts.JPG">
+  <img width="400" height="300" src="https://raw.githubusercontent.com/joeawalker/GoogleCalendarAPI/main/shifts.JPG">
 </p>
 
 <br>
@@ -30,11 +30,11 @@ I researched into Google's Google Calendar API and created a developer account t
 The final results can be seen here showing multiple shifts in my calendar and the times of those shifts. I have a widget on my phone that displays my angenda, which is the next handful of events coming up in my calendar, allowing for a much easier method of seeing my work schedule. 
 
 <p align="center">
-  <img width="460" height="270" src="https://raw.githubusercontent.com/joeawalker/GoogleCalendarAPI/main/Google%20Agenda.png">
+  <img width="400" height="300" src="https://raw.githubusercontent.com/joeawalker/GoogleCalendarAPI/main/Google%20Agenda.png">
 </p>
 
 If an event is selected you can view further details of the names of everyone working that day, the times they are working, location of store and alarms set etc.
 
 <p align="center">
-  <img width="460" height="270" src="https://raw.githubusercontent.com/joeawalker/GoogleCalendarAPI/main/Calendar%20Shift.png">
+  <img width="400" height="300" src="https://raw.githubusercontent.com/joeawalker/GoogleCalendarAPI/main/Calendar%20Shift.png">
 </p>

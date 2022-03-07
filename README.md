@@ -22,3 +22,19 @@ I researched into Google's Google Calendar API and created a developer account t
 <p align="center">
   <img width="460" height="270" src="https://raw.githubusercontent.com/joeawalker/GoogleCalendarAPI/main/shifts.JPG">
 </p>
+
+<br>
+
+## **Final Results**
+
+The final results can be seen here showing multiple shifts in my calendar and the times of those shifts. I have a widget on my phone that displays my angenda, which is the next handful of events coming up in my calendar, allowing for a much easier method of seeing my work schedule. 
+
+<p align="center">
+  <img width="460" height="270" src="https://raw.githubusercontent.com/joeawalker/GoogleCalendarAPI/main/Google%20Agenda.png">
+</p>
+
+If an event is selected you can view further details of the names of everyone working that day, the times they are working, location of store and alarms set etc.
+
+<p align="center">
+  <img width="460" height="270" src="https://raw.githubusercontent.com/joeawalker/GoogleCalendarAPI/main/Calendar%20Shift.png">
+</p>
